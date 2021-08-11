@@ -7,3 +7,4 @@ Step1:Prepare and collect data.
 Step2: Choose an algorithms. 
 Step3: Train  ML algorithm  using train  data. 
 Step4 :Evaluate/Predict  Model performance on data. 
+ and other important details mentioned in a code.
